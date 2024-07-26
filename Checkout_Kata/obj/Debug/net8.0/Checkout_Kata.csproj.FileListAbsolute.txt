@@ -116,3 +116,5 @@ C:\Users\avita\source\repos\Checkout-Kata\Checkout_Kata\obj\Debug\net8.0\refint\
 C:\Users\avita\source\repos\Checkout-Kata\Checkout_Kata\obj\Debug\net8.0\Checkout_Kata.pdb
 C:\Users\avita\source\repos\Checkout-Kata\Checkout_Kata\obj\Debug\net8.0\Checkout_Kata.genruntimeconfig.cache
 C:\Users\avita\source\repos\Checkout-Kata\Checkout_Kata\obj\Debug\net8.0\ref\Checkout_Kata.dll
+C:\Users\avita\source\repos\Checkout-Kata\Checkout_Kata\bin\Debug\net8.0\CheckoutKata.UnitTests\obj\CheckoutKata.UnitTests.csproj.nuget.dgspec.json
+C:\Users\avita\source\repos\Checkout-Kata\Checkout_Kata\bin\Debug\net8.0\CheckoutKata.UnitTests\obj\project.assets.json
