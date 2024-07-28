@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\checkoutkata.unittests\\checkoutkatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:checkoutkata.unittests\\checkoutkatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\models\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:models\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\services\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:services\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:services\\ipricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\checkout_kata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:checkout_kata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\services\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:services\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\services\\icheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:services\\icheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\checkoutkata.unittests\\checkoutkatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:checkoutkata.unittests\\checkoutkatatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\controllers\\checkoutkatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:controllers\\checkoutkatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|c:\\users\\avita\\source\\repos\\checkout-kata\\checkout_kata\\checkout_kata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DAF2499-8656-4710-B3F3-0F45AB4E73D3}|Checkout_Kata.csproj|solutionrelative:checkout_kata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,112 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CheckoutKataTests.cs",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\CheckoutKata.UnitTests\\CheckoutKataTests.cs",
-              "RelativeDocumentMoniker": "CheckoutKata.UnitTests\\CheckoutKataTests.cs",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\CheckoutKata.UnitTests\\CheckoutKataTests.cs",
-              "RelativeToolTip": "CheckoutKata.UnitTests\\CheckoutKataTests.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAYwFEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:54:00.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CheckoutController.cs",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Controllers\\CheckoutController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Controllers\\CheckoutController.cs",
-              "RelativeToolTip": "Controllers\\CheckoutController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:58:21.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Checkout.cs",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\Checkout.cs",
-              "RelativeDocumentMoniker": "Services\\Checkout.cs",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\Checkout.cs",
-              "RelativeToolTip": "Services\\Checkout.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:57:17.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pricing.cs",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\Pricing.cs",
-              "RelativeDocumentMoniker": "Services\\Pricing.cs",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\Pricing.cs",
-              "RelativeToolTip": "Services\\Pricing.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:55:14.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPricing.cs",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\IPricing.cs",
-              "RelativeDocumentMoniker": "Services\\IPricing.cs",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\IPricing.cs",
-              "RelativeToolTip": "Services\\IPricing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:47:45.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICheckout.cs",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\ICheckout.cs",
-              "RelativeDocumentMoniker": "Services\\ICheckout.cs",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\ICheckout.cs",
-              "RelativeToolTip": "Services\\ICheckout.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:47:24.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Price.cs",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Models\\Price.cs",
-              "RelativeDocumentMoniker": "Models\\Price.cs",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Models\\Price.cs",
-              "RelativeToolTip": "Models\\Price.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:46:28.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Checkout_Kata",
-              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Checkout_Kata.csproj",
-              "RelativeDocumentMoniker": "Checkout_Kata.csproj",
-              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Checkout_Kata.csproj",
-              "RelativeToolTip": "Checkout_Kata.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-26T15:45:55.067Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -155,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pricing.cs",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\Pricing.cs",
+              "RelativeDocumentMoniker": "Services\\Pricing.cs",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\Pricing.cs",
+              "RelativeToolTip": "Services\\Pricing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:16:17.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPricing.cs",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\IPricing.cs",
+              "RelativeDocumentMoniker": "Services\\IPricing.cs",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\IPricing.cs",
+              "RelativeToolTip": "Services\\IPricing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:16:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\Checkout.cs",
+              "RelativeDocumentMoniker": "Services\\Checkout.cs",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Services\\Checkout.cs",
+              "RelativeToolTip": "Services\\Checkout.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:16:08.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutKataController.cs",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Controllers\\CheckoutKataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutKataController.cs",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Controllers\\CheckoutKataController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutKataController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwBkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:13:52.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutKataTests.cs",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\CheckoutKata.UnitTests\\CheckoutKataTests.cs",
+              "RelativeDocumentMoniker": "CheckoutKata.UnitTests\\CheckoutKataTests.cs",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\CheckoutKata.UnitTests\\CheckoutKataTests.cs",
+              "RelativeToolTip": "CheckoutKata.UnitTests\\CheckoutKataTests.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:54:00.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Checkout_Kata.csproj",
+              "DocumentMoniker": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Checkout_Kata.csproj",
+              "RelativeDocumentMoniker": "Checkout_Kata.csproj",
+              "ToolTip": "C:\\Users\\avita\\source\\repos\\Checkout-Kata\\Checkout_Kata\\Checkout_Kata.csproj",
+              "RelativeToolTip": "Checkout_Kata.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T15:45:55.067Z",
+              "EditorCaption": ""
             }
           ]
         }
